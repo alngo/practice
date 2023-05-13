@@ -1,0 +1,15 @@
+[submodule "java"]
+	path = java
+	url = git@github.com:alngo/java.git
+[submodule "erlang"]
+	path = erlang
+	url = git@github.com:alngo/erlang.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:alngo/cpp.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:alngo/rust.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:alngo/golang.git
